@@ -172,7 +172,7 @@ export const ProjectDetail = () => {
               {project.title}
             </h1>
             <div className="flex flex-wrap gap-4 mb-8">
-              <span className="px-4 py-1 rounded-full border border-white/10 text-xs font-mono uppercase tracking-widest">Web3</span>
+              <span className="px-4 py-1 rounded-full border border-white/10 text-xs font-mono uppercase tracking-widest">Graphic Design</span>
               <span className="px-4 py-1 rounded-full border border-white/10 text-xs font-mono uppercase tracking-widest">Branding</span>
               <span className="px-4 py-1 rounded-full border border-white/10 text-xs font-mono uppercase tracking-widest">2025</span>
             </div>

@@ -69,19 +69,19 @@ const PROJECTS = [
     ],
     category: 'social',
   },
-  {
-    id: "solar-tech-identity",
-    title: "Solar Tech",
-    company: "Solar Tech",
-    slug: "solar-tech",
-    description: "Sustainable energy technology branding and visual identity.",
-    flyers: [
-      "https://picsum.photos/seed/solar-1/800/800",
-      "https://picsum.photos/seed/solar-2/800/800",
-      "https://picsum.photos/seed/solar-3/800/800",
-    ],
-    category: 'social',
-  },
+  // {
+  //   id: "solar-tech-identity",
+  //   title: "Solar Tech",
+  //   company: "Solar Tech",
+  //   slug: "solar-tech",
+  //   description: "Sustainable energy technology branding and visual identity.",
+  //   flyers: [
+  //     "https://picsum.photos/seed/solar-1/800/800",
+  //     "https://picsum.photos/seed/solar-2/800/800",
+  //     "https://picsum.photos/seed/solar-3/800/800",
+  //   ],
+  //   category: 'social',
+  // },
   {
     id: "sales-flyers",
     title: "Brand Sales",
