@@ -46,14 +46,18 @@ export const AboutModal = ({ isOpen, onClose }) => {
                 <div className="space-y-8">
                   <div className="space-y-6 text-base md:text-lg text-white/60 leading-relaxed">
                     <p>
-                      I am Favour Jacobs, a multidisciplinary designer focused on creating immersive digital experiences. 
-                      With over 8 years of experience in the Web3 space, I bridge the gap between 
-                      complex blockchain technology and human-centric design.
+                      I am a graphic designer dedicated to building clean, professional visual identities 
+                      for brands. My core focus is on taking complex concepts and translating them into 
+                      polished, easy-to-understand graphics that speak directly to an audience. Using 
+                      Photoshop as my primary tool, I specialize in sleek, corporate aesthetics. I 
+                      naturally lean toward modern, sophisticated styles—incorporating elements like 
+                      monocolor palettes, dark themes, and subtle glass morphism to give brands a 
+                      premium feel. 
                     </p>
                     <p>
-                      My philosophy is rooted in minimalism and high-performance motion. I believe 
-                      that every pixel should serve a purpose, and every interaction should feel 
-                      intentional.
+                      For me, effective design is never about overcomplicating things 
+                      or adding unnecessary clutter; it is about creating straightforward, high-quality 
+                      visuals that make a business look trustworthy and established.
                     </p>
                   </div>
                   
@@ -61,8 +65,8 @@ export const AboutModal = ({ isOpen, onClose }) => {
                     <div>
                       <h4 className="text-[10px] md:text-xs font-mono text-white/40 uppercase tracking-widest mb-4">Core Skills</h4>
                       <ul className="space-y-2 text-xs md:text-sm font-bold uppercase tracking-wider">
-                        <li>UI/UX Design</li>
-                        <li>Web3 Architecture</li>
+                        <li>Logo Design</li>
+                        <li>Typography and Layout</li>
                         <li>Motion Graphics</li>
                         <li>Brand Identity</li>
                       </ul>
@@ -72,7 +76,7 @@ export const AboutModal = ({ isOpen, onClose }) => {
                       <h4 className="text-[10px] md:text-xs font-mono text-white/40 uppercase tracking-widest mb-4">Experience</h4>
                       <div className="space-y-4">
                         <div>
-                          <p className="text-sm md:text-base font-bold">Lead Designer @ Nexus</p>
+                          <p className="text-sm md:text-base font-bold">Lead Designer</p>
                           <p className="text-[10px] md:text-xs text-white/40">2021 — Present</p>
                         </div>
                       </div>
