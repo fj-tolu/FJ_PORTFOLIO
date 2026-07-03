@@ -43,13 +43,13 @@ export const Hero = () => {
             
             <div className="flex items-center gap-4 w-full justify-center lg:justify-start mt-[-0.05em]">
               <span className="text-white">REME</span>
-              <div className="h-10 md:h-16 lg:h-20 xl:h-24 flex-1 lg:flex-none lg:w-64 xl:w-80 bg-white" />
-            </div>
-            
-            <div className="bg-white text-obsidian px-2 md:px-4 py-1 mt-[-0.05em] relative">
+              <span className="bg-white text-obsidian px-2 md:px-4 py-1 mt-[-0.05em] relative">
               MBER
               <div className="absolute bottom-1 md:bottom-2 left-2 md:left-4 w-1 md:w-2 h-1 md:h-2 bg-purple-600 rounded-full" />
+            </span>
             </div>
+            
+            
           </h1>
           
           <p className="max-w-xl mx-auto lg:mx-0 text-base md:text-xl text-white/50 leading-relaxed font-light mb-10 md:mb-14">
