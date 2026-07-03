@@ -33,18 +33,17 @@ export const Hero = () => {
               <span className="bg-white text-obsidian px-2 md:px-4 py-1 ml-1 md:ml-2 -translate-y-[10%]">G</span>
             </div>
             
-            <div className="bg-white text-obsidian px-2 md:px-4 py-1 mt-[-0.05em]">
+            <div className="bg-white text-obsidian px-2 md:px-4 py-1 mt-[0.05em]">
               BRANDS
             </div>
             
-            <div className="text-white mt-[-0.05em]">
+            <div className="text-white mt-[0.05em]">
               PEOPLE
             </div>
             
             <div className="flex items-center gap-2 w-full justify-center lg:justify-start mt-[0.05em]">
-              <span className="text-white">REME</span>
               <span className="bg-white text-obsidian px-2 md:px-4 py-1 mt-[0.05em] relative">
-              MBER 
+              REMEMBER!
             </span>
             </div>
             
