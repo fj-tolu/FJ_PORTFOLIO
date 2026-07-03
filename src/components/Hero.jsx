@@ -37,7 +37,7 @@ export const Hero = () => {
               BRANDS
             </div>
             
-            <div className="text-white mt-[0.05em]">
+            <div className="text-white mt-[1em]">
               PEOPLE
             </div>
             
