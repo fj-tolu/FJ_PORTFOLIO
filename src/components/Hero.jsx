@@ -41,7 +41,7 @@ export const Hero = () => {
               PEOPLE
             </div>
             
-            <div className="flex items-center gap-2 w-full justify-center lg:justify-start mt-[-0.05em]">
+            <div className="flex items-center gap-2 w-full justify-center lg:justify-start mt-[0.05em]">
               <span className="text-white">REME</span>
               <span className="bg-white text-obsidian px-2 md:px-4 py-1 mt-[-0.05em] relative">
               MBER 
