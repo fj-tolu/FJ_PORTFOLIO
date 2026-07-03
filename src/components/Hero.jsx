@@ -15,7 +15,7 @@ export const Hero = () => {
   }, []);
 
   return (
-    <section className="relative min-h-[90vh] flex items-center px-6 pt-32 pb-12 overflow-hidden lg:pt-40 xl:pt-48">
+    <section className="relative min-h-[90vh] flex items-center px-6 pt-20 pb-12 overflow-hidden lg:pt-40 xl:pt-48">
       <div className="max-w-7xl mx-auto w-full grid grid-cols-1 lg:grid-cols-[1.2fr_0.8fr] gap-12 lg:gap-20 items-center">
         {/* Left Side: Content */}
         <motion.div
@@ -27,7 +27,7 @@ export const Hero = () => {
           <span className="inline-block text-xs md:text-sm font-mono tracking-[0.5em] text-white/40 uppercase mb-8 md:mb-12">
             Graphics designer
           </span>
-          <h1 className="flex flex-col items-center lg:items-start gap-0 font-display font-extrabold tracking-tighter leading-[0.8] mb-12 md:mb-16 text-6xl md:text-8xl lg:text-9xl xl:text-[11rem] uppercase">
+          <h1 className="flex flex-col items-center lg:items-start gap-0 font-display font-extrabold tracking-tighter leading-[0.8] mb-10 md:mb-16 text-6xl md:text-8xl lg:text-9xl xl:text-[11rem] uppercase">
             <div className="flex items-start">
               <span className="text-white">DESIGNIN</span>
               <span className="bg-white text-obsidian px-2 md:px-4 py-1 ml-1 md:ml-2 -translate-y-[10%]">G</span>
@@ -50,7 +50,7 @@ export const Hero = () => {
             
           </h1>
           
-          <p className="max-w-xl mx-auto lg:mx-0 text-base md:text-xl text-white/50 leading-relaxed font-light mb-10 md:mb-14">
+          <p className="max-w-xl mx-auto lg:mx-0 text-base md:text-xl text-white/50 leading-relaxed font-light mb-8 md:mb-14">
             Helping businesses turn ideas into brands people remember through 
             strategic branding, social media, and digital design.
           </p>

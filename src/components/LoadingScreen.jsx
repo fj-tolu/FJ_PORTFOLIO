@@ -25,7 +25,7 @@ export const LoadingScreen = () => {
       {isVisible && (
         <motion.div
           exit={{ opacity: 0, y: -20 }}
-          transition={{ duration: 0.8, ease: [0.22, 1, 0.36, 1] }}
+          transition={{ duration: 0.6, ease: [0.22, 1, 0.36, 1] }}
           className="fixed inset-0 z-[200] bg-obsidian flex flex-col items-center justify-center p-6"
         >
           <div className="w-full max-w-md space-y-8">
