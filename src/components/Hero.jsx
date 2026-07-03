@@ -29,32 +29,32 @@ export const Hero = () => {
           </span>
           <h1 className="flex flex-col items-center lg:items-start gap-0 font-display font-extrabold tracking-tighter leading-[0.8] mb-12 md:mb-16 text-6xl md:text-8xl lg:text-9xl xl:text-[11rem] uppercase">
             <div className="flex items-start">
-              <span className="text-white">CRAFTIN</span>
+              <span className="text-white">DESIGNIN</span>
               <span className="bg-white text-obsidian px-2 md:px-4 py-1 ml-1 md:ml-2 -translate-y-[10%]">G</span>
             </div>
             
             <div className="bg-white text-obsidian px-2 md:px-4 py-1 mt-[-0.05em]">
-              THE
+              BRANDS
             </div>
             
             <div className="text-white mt-[-0.05em]">
-              FUTURE
+              PEOPLE
             </div>
             
             <div className="flex items-center gap-4 w-full justify-center lg:justify-start mt-[-0.05em]">
-              <span className="text-white">OF</span>
+              <span className="text-white">REME</span>
               <div className="h-10 md:h-16 lg:h-20 xl:h-24 flex-1 lg:flex-none lg:w-64 xl:w-80 bg-white" />
             </div>
             
             <div className="bg-white text-obsidian px-2 md:px-4 py-1 mt-[-0.05em] relative">
-              DESIGN.
+              MBER
               <div className="absolute bottom-1 md:bottom-2 left-2 md:left-4 w-1 md:w-2 h-1 md:h-2 bg-purple-600 rounded-full" />
             </div>
           </h1>
           
           <p className="max-w-xl mx-auto lg:mx-0 text-base md:text-xl text-white/50 leading-relaxed font-light mb-10 md:mb-14">
-            Merging brutalist aesthetics with fluid motion to redefine the modern web. 
-            Specializing in high-fidelity interfaces and immersive digital experiences.
+            Helping businesses turn ideas into brands people remember through 
+            strategic branding, social media, and digital design.
           </p>
           
           <button 
