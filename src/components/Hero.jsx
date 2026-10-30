@@ -27,17 +27,17 @@ export const Hero = () => {
           <span className="inline-block text-xs md:text-sm font-mono tracking-[0.5em] text-white/40 uppercase mb-8 md:mb-12">
             Graphics designer
           </span>
-          <h1 className="flex flex-col items-center lg:items-start gap-0 font-display font-extrabold tracking-tighter leading-[0.8] mb-10 md:mb-16 text-6xl md:text-8xl lg:text-9xl xl:text-[11rem] uppercase">
-            <div className="flex items-start">
+          <h1 className="flex flex-col items-center lg:items-start gap-0 font-display font-extrabold tracking-tighter leading-[0.8] mb-10 md:mb-16 text-[11vw] min-[400px]:text-5xl sm:text-6xl md:text-8xl lg:text-9xl xl:text-[11rem] uppercase w-full">
+            <div className="flex items-start justify-center lg:justify-start w-full">
               <span className="text-white">DESIGNIN</span>
-              <span className="bg-white text-obsidian px-2 md:px-4 py-1 ml-1 md:ml-2 -translate-y-[10%]">G</span>
+              <span className="bg-white text-obsidian px-1 sm:px-2 md:px-4 py-1 ml-1 md:ml-2 -translate-y-[10%]">G</span>
             </div>
             
-            <div className="bg-white text-obsidian px-2 md:px-4 py-1 mt-[0.05em]">
+            <div className="bg-white text-obsidian px-2 md:px-4 py-1 mt-[0.05em] inline-block mx-auto lg:mx-0">
               BRANDS
             </div>
             
-            <div className="text-white mt-0 ">
+            <div className="text-white mt-0 text-center lg:text-left w-full">
               PEOPLE
             </div>
             
